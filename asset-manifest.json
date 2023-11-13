@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/main.57070a52.js",
-    "static/js/54.297c7ff6.chunk.js": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/54.297c7ff6.chunk.js",
+    "main.js": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/main.32734917.js",
+    "static/js/54.594c420d.chunk.js": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/54.594c420d.chunk.js",
     "static/js/71.63a26e5c.chunk.js": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/71.63a26e5c.chunk.js",
     "static/js/787.a2acd71d.chunk.js": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/787.a2acd71d.chunk.js",
     "static/css/283.ad6c02ba.chunk.css": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/css/283.ad6c02ba.chunk.css",
@@ -9,8 +9,8 @@
     "static/js/157.834cf6cb.chunk.js": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/157.834cf6cb.chunk.js",
     "static/js/364.206ed2c5.chunk.js": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/364.206ed2c5.chunk.js",
     "index.html": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/index.html",
-    "main.57070a52.js.map": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/main.57070a52.js.map",
-    "54.297c7ff6.chunk.js.map": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/54.297c7ff6.chunk.js.map",
+    "main.32734917.js.map": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/main.32734917.js.map",
+    "54.594c420d.chunk.js.map": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/54.594c420d.chunk.js.map",
     "71.63a26e5c.chunk.js.map": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/71.63a26e5c.chunk.js.map",
     "787.a2acd71d.chunk.js.map": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/787.a2acd71d.chunk.js.map",
     "283.ad6c02ba.chunk.css.map": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/css/283.ad6c02ba.chunk.css.map",
@@ -19,6 +19,6 @@
     "364.206ed2c5.chunk.js.map": "https://cutting-edge-technologies.github.io/abonement-dev-instance-student/static/js/364.206ed2c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.57070a52.js"
+    "static/js/main.32734917.js"
   ]
 }
